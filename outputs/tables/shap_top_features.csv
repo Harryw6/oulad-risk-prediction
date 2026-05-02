@@ -1,0 +1,21 @@
+feature,mean_abs_shap
+vle_days_since_last_activity,0.7940888
+assessment_missing_due_count,0.7315784
+assessment_mean_score,0.27383345
+assessment_weighted_mean_score,0.19731991
+assessment_completed_weight,0.19602647
+assessment_due_weight,0.1803406
+assessment_average_delay,0.14879794
+highest_education_Lower Than A Level,0.14576882
+vle_clicks_activity_page,0.1051074
+vle_active_day_ratio,0.100095406
+vle_last_activity_day,0.09221074
+assessment_last_submitted_day,0.08113436
+vle_weekly_click_trend_slope,0.06145219
+vle_max_inactivity_gap,0.049838092
+vle_clicks_activity_quiz,0.04620007
+assessment_submitted_count,0.045038246
+num_of_prev_attempts,0.038831566
+vle_clicks_activity_resource,0.03748418
+studied_credits,0.034309484
+assessment_maximum_delay,0.031742483
